@@ -120,12 +120,7 @@ int main() {
 
 ---
 
-## 👥 Team Members
 
-- Sannidhi Shetty
-- Pratiksha
-- Soundaryaa R
-- Palguni 
 
 ---
 
