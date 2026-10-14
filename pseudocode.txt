@@ -1,0 +1,8 @@
+BEGIN
+PROMPT x
+STORE x
+PROMPT y
+STORE y
+COMPUTE x y sum
+DISPLAY sum 
+END
